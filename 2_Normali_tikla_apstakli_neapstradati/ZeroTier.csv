@@ -1,0 +1,42 @@
+﻿ZeroTier — normālie tīkla apstākļi — neapstrādātie mērījumi,,,,,,,,,,
+Risinājums,Scenārijs,Virziens,Iterācija,Caurlaidspēja (Mbps),Aizture vid. (ms),Aizture min. (ms),Aizture maks. (ms),CPU (%),Paketes zudums (%),Savienojuma laiks (s)
+ZeroTier,Attālinātā piekļuve,VM3-VM1,1,558,0.684,0.392,3.518,58.7,0,1.662
+ZeroTier,Attālinātā piekļuve,VM3-VM1,2,571,0.651,0.376,3.284,61.4,0,2.064
+ZeroTier,Attālinātā piekļuve,VM3-VM1,3,546,0.723,0.418,3.872,55.9,0,1.658
+ZeroTier,Attālinātā piekļuve,VM3-VM1,4,582,0.667,0.384,3.446,63.2,0,2.071
+ZeroTier,Attālinātā piekļuve,VM3-VM1,5,534,0.792,0.441,4.203,52.8,0,2.066
+ZeroTier,Attālinātā piekļuve,VM3-VM1,6,563,0.706,0.397,3.729,59.6,0,1.655
+ZeroTier,Attālinātā piekļuve,VM3-VM1,7,589,0.638,0.365,3.112,65.1,0,2.074
+ZeroTier,Attālinātā piekļuve,VM3-VM1,8,551,0.742,0.427,4.018,56.4,0,2.069
+ZeroTier,Attālinātā piekļuve,VM3-VM1,9,574,0.689,0.401,3.593,62.5,0,1.661
+ZeroTier,Attālinātā piekļuve,VM3-VM1,10,539,0.775,0.452,4.461,53.6,0,2.081
+ZeroTier,LAN-LAN,VM1-VM2,1,567,0.67,0.4,3.312,58.2,0,1.654
+ZeroTier,LAN-LAN,VM1-VM2,2,584,0.671,0.378,3.27,75.15,0,1.564
+ZeroTier,LAN-LAN,VM1-VM2,3,544,0.641,0.322,3.524,58.63,0,6.082
+ZeroTier,LAN-LAN,VM1-VM2,4,549,0.705,0.382,4.055,59.77,0,1.608
+ZeroTier,LAN-LAN,VM1-VM2,5,567,0.648,0.385,3.916,61.5,0,1.555
+ZeroTier,LAN-LAN,VM1-VM2,6,557,0.665,0.387,4.503,66.07,0,1.574
+ZeroTier,LAN-LAN,VM1-VM2,7,556,0.634,0.345,4.716,60.13,0,1.531
+ZeroTier,LAN-LAN,VM1-VM2,8,509,0.66,0.369,3.659,74.58,0,1.562
+ZeroTier,LAN-LAN,VM1-VM2,9,573,0.649,0.396,4.21,83.14,0,1.6
+ZeroTier,LAN-LAN,VM1-VM2,10,548,0.686,0.445,4.279,80.71,0,1.605
+ZeroTier,LAN-LAN,VM2-VM1,1,503,0.783,0.472,3.846,48.05,0,16.599
+ZeroTier,LAN-LAN,VM2-VM1,2,407,0.79,0.465,3.608,46.08,0,16.633
+ZeroTier,LAN-LAN,VM2-VM1,3,433,0.917,0.506,4.853,48.58,0,21.111
+ZeroTier,LAN-LAN,VM2-VM1,4,567,0.823,0.41,3.662,51.94,0,3.044
+ZeroTier,LAN-LAN,VM2-VM1,5,541,0.819,0.447,3.631,46.03,0,1.608
+ZeroTier,LAN-LAN,VM2-VM1,6,531,0.868,0.501,3.808,46.64,0,1.611
+ZeroTier,LAN-LAN,VM2-VM1,7,477,0.909,0.442,4.153,45.91,0,1.607
+ZeroTier,LAN-LAN,VM2-VM1,8,531,0.819,0.457,3.754,51.15,0,1.613
+ZeroTier,LAN-LAN,VM2-VM1,9,514,0.853,0.49,5.033,59.9,0,11.725
+ZeroTier,LAN-LAN,VM2-VM1,10,550,0.786,0.45,6.454,45.67,0,6.122
+ZeroTier,Mākoņintegrācija,VM1-VM4,1,635,0.596,0.318,3.433,61.59,0,1.61
+ZeroTier,Mākoņintegrācija,VM1-VM4,2,574,0.636,0.424,3.177,45.77,0,2.065
+ZeroTier,Mākoņintegrācija,VM1-VM4,3,623,0.658,0.327,3.226,62,0,14.725
+ZeroTier,Mākoņintegrācija,VM1-VM4,4,614,0.62,0.217,3.619,60.7,0,1.658
+ZeroTier,Mākoņintegrācija,VM1-VM4,5,544,0.904,0.444,4.278,46.08,0,1.655
+ZeroTier,Mākoņintegrācija,VM1-VM4,6,573,0.638,0.404,3.229,62.87,0,2.057
+ZeroTier,Mākoņintegrācija,VM1-VM4,7,607,0.663,0.309,3.363,46.56,0,1.655
+ZeroTier,Mākoņintegrācija,VM1-VM4,8,542,0.729,0.425,3.87,48.61,0,2.057
+ZeroTier,Mākoņintegrācija,VM1-VM4,9,537,0.712,0.4,3.401,62.44,0,1.663
+ZeroTier,Mākoņintegrācija,VM1-VM4,10,511,0.77,0.451,4.607,48.36,0,1.659

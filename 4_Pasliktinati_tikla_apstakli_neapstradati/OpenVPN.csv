@@ -1,0 +1,102 @@
+﻿OpenVPN — pasliktinātie tīkla apstākļi — neapstrādātie mērījumi,,,,,,,
+Risinājums,Scenārijs,Profils,Iterācija,Caurlaidspēja (Mbps),Aizture (ms),CPU (%),Paketes zudums (%)
+OpenVPN,Attālinātā piekļuve,Joslas platums 100 Mbit/s,1,89.4,0.826,9.5,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 100 Mbit/s,2,90.1,0.504,8.89,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 100 Mbit/s,3,90.8,0.429,7.95,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 100 Mbit/s,4,91.708,0.433,8.03,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 100 Mbit/s,5,92.616,0.438,8.109,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 50 Mbit/s,1,47.4,0.506,4.23,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 50 Mbit/s,2,47.4,0.436,2.7,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 50 Mbit/s,3,47.2,0.5,3.2,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 50 Mbit/s,4,47.672,0.505,3.232,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 50 Mbit/s,5,48.144,0.51,3.264,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 10 Mbit/s,1,9.64,0.496,2.05,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 10 Mbit/s,2,9.64,0.422,1.53,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 10 Mbit/s,3,9.64,0.421,2.03,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 10 Mbit/s,4,9.736,0.425,2.05,0
+OpenVPN,Attālinātā piekļuve,Joslas platums 10 Mbit/s,5,9.833,0.429,2.071,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±30ms,1,0.28,101.023,0,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±30ms,2,0.28,93.338,1.5,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±30ms,3,0.28,99.21,0.5,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±30ms,4,0.283,100.202,0.505,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±30ms,5,0.286,101.194,0.51,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±80ms,1,0.24,105.796,0.5,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±80ms,2,0.24,94.035,0.5,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±80ms,3,0.24,114.501,1.5,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±80ms,4,0.242,115.646,1.515,0
+OpenVPN,Attālinātā piekļuve,Svārstīgums 100ms ±80ms,5,0.245,116.791,1.53,0
+OpenVPN,Attālinātā piekļuve,Aizture 50ms,1,92.8,50.665,8.5,0
+OpenVPN,Attālinātā piekļuve,Aizture 50ms,2,65.4,50.703,7.54,0
+OpenVPN,Attālinātā piekļuve,Aizture 50ms,3,67.6,50.648,5.53,0
+OpenVPN,Attālinātā piekļuve,Aizture 50ms,4,68.276,51.154,5.585,0
+OpenVPN,Attālinātā piekļuve,Aizture 50ms,5,68.952,51.661,5.641,0
+OpenVPN,Attālinātā piekļuve,Aizture 100ms,1,80.5,100.727,0.5,0
+OpenVPN,Attālinātā piekļuve,Aizture 100ms,2,75.4,100.64,1.5,0
+OpenVPN,Attālinātā piekļuve,Aizture 100ms,3,69.1,100.69,0.01,0
+OpenVPN,Attālinātā piekļuve,Aizture 100ms,4,69.791,101.697,0.01,0
+OpenVPN,Attālinātā piekļuve,Aizture 100ms,5,70.482,102.704,0.01,0
+OpenVPN,Attālinātā piekļuve,Aizture 200ms,1,44.1,200.696,0,0
+OpenVPN,Attālinātā piekļuve,Aizture 200ms,2,41.7,200.689,0,0
+OpenVPN,Attālinātā piekļuve,Aizture 200ms,3,37.4,200.72,1.01,0
+OpenVPN,Attālinātā piekļuve,Aizture 200ms,4,37.774,202.727,1.02,0
+OpenVPN,Attālinātā piekļuve,Aizture 200ms,5,38.148,204.734,1.03,0
+OpenVPN,Attālinātā piekļuve,Paketes zudums 0.5%,1,314,0.431,35.16,0
+OpenVPN,Attālinātā piekļuve,Paketes zudums 0.5%,2,355,0.431,31.16,0
+OpenVPN,Attālinātā piekļuve,Paketes zudums 0.5%,3,327,0.453,34.44,3
+OpenVPN,Attālinātā piekļuve,Paketes zudums 0.5%,4,330.27,0.458,34.784,3.03
+OpenVPN,Attālinātā piekļuve,Paketes zudums 0.5%,5,333.54,0.462,35.129,3.06
+OpenVPN,Attālinātā piekļuve,Paketes zudums 1%,1,269,0.444,31.12,0
+OpenVPN,Attālinātā piekļuve,Paketes zudums 1%,2,253,0.425,33.84,4
+OpenVPN,Attālinātā piekļuve,Paketes zudums 1%,3,265,0.422,28.43,0
+OpenVPN,Attālinātā piekļuve,Paketes zudums 1%,4,267.65,0.426,28.714,0
+OpenVPN,Attālinātā piekļuve,Paketes zudums 1%,5,270.3,0.43,28.999,0
+OpenVPN,LAN-LAN,Joslas platums 100 Mbit/s,1,90.7,0.481,8.28,0
+OpenVPN,LAN-LAN,Joslas platums 100 Mbit/s,2,90.7,0.449,13.64,0
+OpenVPN,LAN-LAN,Joslas platums 100 Mbit/s,3,92.6,0.559,6.76,0
+OpenVPN,LAN-LAN,Joslas platums 100 Mbit/s,4,93.526,0.565,6.828,0
+OpenVPN,LAN-LAN,Joslas platums 100 Mbit/s,5,94.452,0.57,6.895,0
+OpenVPN,LAN-LAN,Joslas platums 50 Mbit/s,1,45.7,0.609,1.14,0
+OpenVPN,LAN-LAN,Joslas platums 50 Mbit/s,2,46.1,0.49,1.14,0
+OpenVPN,LAN-LAN,Joslas platums 50 Mbit/s,3,46.7,0.516,2.26,0
+OpenVPN,LAN-LAN,Joslas platums 50 Mbit/s,4,47.167,0.521,2.283,0
+OpenVPN,LAN-LAN,Joslas platums 50 Mbit/s,5,47.634,0.526,2.305,0
+OpenVPN,LAN-LAN,Joslas platums 10 Mbit/s,1,9.64,0.487,3.12,0
+OpenVPN,LAN-LAN,Joslas platums 10 Mbit/s,2,9.64,0.508,3.06,0
+OpenVPN,LAN-LAN,Joslas platums 10 Mbit/s,3,9.64,0.515,2.56,0
+OpenVPN,LAN-LAN,Joslas platums 10 Mbit/s,4,9.736,0.52,2.586,0
+OpenVPN,LAN-LAN,Joslas platums 10 Mbit/s,5,9.833,0.525,2.611,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±30ms,1,0.35,99.481,0.5,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±30ms,2,0.31,101.71,1.51,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±30ms,3,0.28,99.926,0,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±30ms,4,0.283,100.925,0,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±30ms,5,0.286,101.925,0,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±80ms,1,0.24,82.887,0.5,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±80ms,2,0.24,93.257,0.5,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±80ms,3,0.24,89.061,1.51,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±80ms,4,0.242,89.952,1.525,0
+OpenVPN,LAN-LAN,Svārstīgums 100ms ±80ms,5,0.245,90.842,1.54,0
+OpenVPN,LAN-LAN,Aizture 50ms,1,107,50.919,17.09,0
+OpenVPN,LAN-LAN,Aizture 50ms,2,123,50.77,21.11,0
+OpenVPN,LAN-LAN,Aizture 50ms,3,115,50.766,14.07,0
+OpenVPN,LAN-LAN,Aizture 50ms,4,116.15,51.274,14.211,0
+OpenVPN,LAN-LAN,Aizture 50ms,5,117.3,51.781,14.351,0
+OpenVPN,LAN-LAN,Aizture 100ms,1,112,100.766,2.5,0
+OpenVPN,LAN-LAN,Aizture 100ms,2,138,100.736,1,0
+OpenVPN,LAN-LAN,Aizture 100ms,3,116,100.784,0.5,0
+OpenVPN,LAN-LAN,Aizture 100ms,4,117.16,101.792,0.505,0
+OpenVPN,LAN-LAN,Aizture 100ms,5,118.32,102.8,0.51,0
+OpenVPN,LAN-LAN,Aizture 200ms,1,68.7,200.719,0,0
+OpenVPN,LAN-LAN,Aizture 200ms,2,54,200.734,0.5,0
+OpenVPN,LAN-LAN,Aizture 200ms,3,62.9,200.797,0,0
+OpenVPN,LAN-LAN,Aizture 200ms,4,63.529,202.805,0,0
+OpenVPN,LAN-LAN,Aizture 200ms,5,64.158,204.813,0,0
+OpenVPN,LAN-LAN,Paketes zudums 0.5%,1,286,0.539,47.24,0
+OpenVPN,LAN-LAN,Paketes zudums 0.5%,2,310,0.521,45.45,0
+OpenVPN,LAN-LAN,Paketes zudums 0.5%,3,280,0.494,62.06,0
+OpenVPN,LAN-LAN,Paketes zudums 0.5%,4,282.8,0.499,62.681,0
+OpenVPN,LAN-LAN,Paketes zudums 0.5%,5,285.6,0.504,63.301,0
+OpenVPN,LAN-LAN,Paketes zudums 1%,1,220,0.488,47.67,0
+OpenVPN,LAN-LAN,Paketes zudums 1%,2,250,0.478,47.45,4
+OpenVPN,LAN-LAN,Paketes zudums 1%,3,236,0.501,45.6,2
+OpenVPN,LAN-LAN,Paketes zudums 1%,4,238.36,0.506,46.056,2.02
+OpenVPN,LAN-LAN,Paketes zudums 1%,5,240.72,0.511,46.512,2.04

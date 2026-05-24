@@ -1,0 +1,39 @@
+﻿IPsec,,,,,,,
+Virziens,Rādītājs,Vid.,Med.,St.nov.,Min.,Maks.,P95
+VM1-VM4,Caurlaidspēja (Mbps),520.5,546.5,58.3271,428,569,568.55
+,Aizture (ms),0.3167,0.296,0.0706,0.281,0.516,0.4242
+,CPU (%),51.242,53.69,13.3995,28.37,64.75,64.6465
+,Paketes zudums (%),0,0,0,0,0,0
+,Savienojuma laiks (s),2.0769,2.0765,0.0052,2.07,2.085,2.0846
+,,,,,,,
+Netmaker,,,,,,,
+Virziens,Rādītājs,Vid.,Med.,St.nov.,Min.,Maks.,P95
+VM1-VM4,Caurlaidspēja (Mbps),1026.4,1029.5,8.8719,1013,1036,1035.55
+,Aizture (ms),0.6116,0.5525,0.1663,0.497,0.958,0.9247
+,CPU (%),74.6,74.925,0.6986,73.17,75.27,75.2115
+,Paketes zudums (%),0,0,0,0,0,0
+,Savienojuma laiks (s),19.3297,19.122,1.3357,18.621,23.066,21.3047
+,,,,,,,
+OpenVPN,,,,,,,
+Virziens,Rādītājs,Vid.,Med.,St.nov.,Min.,Maks.,P95
+VM1-VM4,Caurlaidspēja (Mbps),271.2,270.5,8.324,259,285,283.2
+,Aizture (ms),0.6365,0.6245,0.0365,0.585,0.687,0.682
+,CPU (%),54.34,54.25,2.2619,50.9,57.6,57.375
+,Paketes zudums (%),0,0,0,0,0,0
+,Savienojuma laiks (s),113.8532,114.683,3.0323,108.251,116.334,116.3236
+,,,,,,,
+WireGuard,,,,,,,
+Virziens,Rādītājs,Vid.,Med.,St.nov.,Min.,Maks.,P95
+VM1-VM4,Caurlaidspēja (Mbps),524.1,523.5,5.087,516,531,530.55
+,Aizture (ms),0.4693,0.47,0.0106,0.453,0.486,0.4833
+,CPU (%),57.6,57.5,0.9031,56.2,58.9,58.81
+,Paketes zudums (%),0,0,0,0,0,0
+,Savienojuma laiks (s),0.0589,0.059,0.0032,0.053,0.064,0.0631
+,,,,,,,
+ZeroTier,,,,,,,
+Virziens,Rādītājs,Vid.,Med.,St.nov.,Min.,Maks.,P95
+VM1-VM4,Caurlaidspēja (Mbps),576,573.5,42.2085,511,635,629.6
+,Aizture (ms),0.6926,0.6605,0.0914,0.596,0.904,0.8437
+,CPU (%),54.498,54.655,7.8924,45.77,62.87,62.6765
+,Paketes zudums (%),0,0,0,0,0,0
+,Savienojuma laiks (s),3.0804,1.661,4.0961,1.61,14.725,9.028

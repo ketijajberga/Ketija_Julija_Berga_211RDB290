@@ -1,0 +1,7 @@
+﻿Izmaksas un ārējā atkarība,,
+Risinājums,Punkti,Pamatojums
+IPsec,5,Pilnībā atvērtā koda risinājums. Nav nekādas atkarības no ārējiem servisiem vai infrastruktūras. Viss darbojas lokāli uzņēmuma infrastruktūrā. Nav licences izmaksu. Vienīgās izmaksas ir serveru infrastruktūra un administratora darba laiks.
+OpenVPN,5,Pilnībā atvērtā koda risinājums. Nav atkarības no ārējiem servisiem. Viss darbojas lokāli. Nav licences izmaksu. 
+WireGuard,5,"Pilnībā atvērtā koda risinājums, integrēts Linux kodolā. Nav nekādas atkarības no ārējiem servisiem. Viss darbojas lokāli. Nav licences izmaksu. No visiem analizētajiem risinājumiem WireGuard ir visvienkāršākais no izmaksām un ārējas ietekmes."
+ZeroTier,2,"Bezmaksas Personal plāns ir ierobežots - 10 ierīces, nav pārvaldīto maršrutu. Pilnvērtīgai uzņēmuma lietošanai nepieciešams Essential plāns par 18 USD mēnesī, papildus par katru nākošo ierīci pēc 10. ierīces ir jāmaksā papildus summa. Iespējami arī dārgākas Enterprise pakotnes. Pastāv fundamentāla atkarība no ZeroTier centrālajiem serveriem - bez tiem jauni mezgli nevar pievienoties tīklam. Tas rada gan izmaksu, gan pieejamības risku."
+Netmaker,4,"Atvērtā koda risinājums, ko var izvietot pilnībā pašu infrastruktūrā bez ārējām atkarībām. Nav licences izmaksu pamatfunkcionalitātei. Nepieciešami papildu komponenti - serveris Docker videi, kas rada papildu infrastruktūras izmaksas un administrēšanas apjomu. "

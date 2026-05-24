@@ -1,0 +1,8 @@
+﻿SAW kopsavilkums — galīgais novērtējums,,,,,
+,,,,,
+Risinājums,LAN-LAN,Attālinātā piekļuve,Mākoņintegrācija,Vidējais score,Vieta
+IPsec,0.4894,0.446,0.4585,0.4646,3
+Netmaker,0.6786,0.5747,0.6003,0.6179,1
+OpenVPN,0.3046,0.3552,0.2652,0.3083,5
+WireGuard,0.4302,0.4317,0.3686,0.4102,4
+ZeroTier,0.5405,0.4536,0.4793,0.4911,2

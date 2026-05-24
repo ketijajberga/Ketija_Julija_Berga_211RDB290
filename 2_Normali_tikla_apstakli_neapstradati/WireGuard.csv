@@ -1,0 +1,42 @@
+﻿WireGuard — normālie tīkla apstākļi — neapstrādātie mērījumi,,,,,,,,,,
+Risinājums,Scenārijs,Virziens,Iterācija,Caurlaidspēja (Mbps),Aizture vid. (ms),Aizture min. (ms),Aizture maks. (ms),CPU (%),Paketes zudums (%),Savienojuma laiks (s)
+WireGuard,Attālinātā piekļuve,VM3-VM1,1,1065,0.892,0.289,1.928,94.6,0,0.056
+WireGuard,Attālinātā piekļuve,VM3-VM1,2,1069,0.453,0.371,0.682,93.45,0,0.053
+WireGuard,Attālinātā piekļuve,VM3-VM1,3,1065,0.498,0.357,0.967,96.8,0,0.05
+WireGuard,Attālinātā piekļuve,VM3-VM1,4,1076,0.455,0.275,0.714,95.17,0,0.052
+WireGuard,Attālinātā piekļuve,VM3-VM1,5,1067,0.505,0.308,2.219,95.17,0,0.052
+WireGuard,Attālinātā piekļuve,VM3-VM1,6,1071,0.474,0.356,0.825,95.17,0,0.054
+WireGuard,Attālinātā piekļuve,VM3-VM1,7,1065,0.472,0.343,1.085,95.73,0,0.052
+WireGuard,Attālinātā piekļuve,VM3-VM1,8,1066,0.483,0.349,0.735,96.23,0,0.052
+WireGuard,Attālinātā piekļuve,VM3-VM1,9,1058,0.462,0.338,0.683,95.22,0,0.051
+WireGuard,Attālinātā piekļuve,VM3-VM1,10,1077,0.454,0.271,1.023,95.06,0,0.051
+WireGuard,LAN-LAN,VM1-VM2,1,527,0.572,0.393,0.952,57.93,0,0.065
+WireGuard,LAN-LAN,VM1-VM2,2,523,0.558,0.407,1.81,58.25,0,0.063
+WireGuard,LAN-LAN,VM1-VM2,3,523,0.519,0.402,0.717,58.39,0,0.062
+WireGuard,LAN-LAN,VM1-VM2,4,524,0.498,0.37,0.765,58.16,0,0.061
+WireGuard,LAN-LAN,VM1-VM2,5,523,0.5,0.399,0.842,58.39,0,0.059
+WireGuard,LAN-LAN,VM1-VM2,6,525,0.536,0.397,1.047,58.16,0,0.063
+WireGuard,LAN-LAN,VM1-VM2,7,523,0.698,0.407,1.383,58.07,0,0.061
+WireGuard,LAN-LAN,VM1-VM2,8,522,0.528,0.353,1.576,58.25,0,0.06
+WireGuard,LAN-LAN,VM1-VM2,9,525,0.539,0.365,0.931,57.7,0,0.059
+WireGuard,LAN-LAN,VM1-VM2,10,528,0.755,0.363,1.786,57.93,0,0.059
+WireGuard,LAN-LAN,VM2-VM1,1,527,0.483,0.391,0.598,58.25,0,0.055
+WireGuard,LAN-LAN,VM2-VM1,2,522,0.524,0.394,0.881,57.08,0,0.055
+WireGuard,LAN-LAN,VM2-VM1,3,524,0.576,0.412,1.005,57.79,0,0.049
+WireGuard,LAN-LAN,VM2-VM1,4,520,0.547,0.392,1.079,56.6,0,0.053
+WireGuard,LAN-LAN,VM2-VM1,5,525,0.515,0.412,0.77,58.83,0,0.051
+WireGuard,LAN-LAN,VM2-VM1,6,517,0.501,0.401,0.768,58.02,0,0.055
+WireGuard,LAN-LAN,VM2-VM1,7,523,0.545,0.387,2.216,57.23,0,0.053
+WireGuard,LAN-LAN,VM2-VM1,8,524,0.523,0.391,1.138,58.39,0,0.052
+WireGuard,LAN-LAN,VM2-VM1,9,521,0.507,0.383,1.018,59.25,0,0.053
+WireGuard,LAN-LAN,VM2-VM1,10,523,0.557,0.418,0.871,57.79,0,0.053
+WireGuard,Mākoņintegrācija,VM1-VM4,1,518,0.464,0.362,0.61,56.7,0,0.061
+WireGuard,Mākoņintegrācija,VM1-VM4,2,523,0.468,0.37,0.838,57.4,0,0.058
+WireGuard,Mākoņintegrācija,VM1-VM4,3,527,0.479,0.355,0.985,58.1,0,0.06
+WireGuard,Mākoņintegrācija,VM1-VM4,4,521,0.46,0.386,0.622,56.9,0,0.057
+WireGuard,Mākoņintegrācija,VM1-VM4,5,530,0.458,0.35,0.769,58.7,0,0.062
+WireGuard,Mākoņintegrācija,VM1-VM4,6,516,0.472,0.359,0.609,57.6,0,0.06
+WireGuard,Mākoņintegrācija,VM1-VM4,7,524,0.486,0.37,4.214,56.2,0,0.058
+WireGuard,Mākoņintegrācija,VM1-VM4,8,529,0.473,0.359,0.914,58.4,0,0.064
+WireGuard,Mākoņintegrācija,VM1-VM4,9,522,0.453,0.381,0.788,57.1,0,0.053
+WireGuard,Mākoņintegrācija,VM1-VM4,10,531,0.48,0.377,0.931,58.9,0,0.056
